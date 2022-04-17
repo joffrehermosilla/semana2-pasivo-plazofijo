@@ -1,0 +1,1 @@
+# semana2-pasivo-fijo
