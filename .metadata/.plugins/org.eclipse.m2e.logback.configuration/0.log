@@ -1,0 +1,21 @@
+2022-04-17 11:04:42,888 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-04-17 11:07:40,506 [Worker-4: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: nttdata.bootcamp.microservicios.pasivo.plazofijo:microservicio-pasivo-plazofijo:0.0.1-SNAPSHOT @ C:\Users\jhermoss\Desktop\semana2\microservicio-pasivo-plazofijo\microservicio-pasivo-plazofijo\pom.xml.
+2022-04-17 11:07:41,737 [Worker-4: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /microservicio-pasivo-plazofijo/src/main/java
+2022-04-17 11:07:41,740 [Worker-4: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /microservicio-pasivo-plazofijo/src/main/resources
+2022-04-17 11:07:41,747 [Worker-4: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /microservicio-pasivo-plazofijo/src/main/resources
+2022-04-17 11:07:41,755 [Worker-4: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /microservicio-pasivo-plazofijo/src/test/java
+2022-04-17 11:07:43,311 [Worker-4: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 3 sec
+2022-04-17 11:07:43,315 [Worker-4: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2022-04-17 11:07:43,803 [Worker-4: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: nttdata.bootcamp.microservicios.pasivo.plazofijo:microservicio-pasivo-plazofijo:0.0.1-SNAPSHOT @ C:\Users\jhermoss\Desktop\semana2\microservicio-pasivo-plazofijo\microservicio-pasivo-plazofijo\pom.xml.
+2022-04-17 11:07:44,479 [Worker-4: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /microservicio-pasivo-plazofijo/src/main/java
+2022-04-17 11:07:44,479 [Worker-4: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /microservicio-pasivo-plazofijo/src/main/resources
+2022-04-17 11:07:44,480 [Worker-4: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /microservicio-pasivo-plazofijo/src/main/resources
+2022-04-17 11:07:44,480 [Worker-4: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /microservicio-pasivo-plazofijo/src/test/java
+2022-04-17 11:07:44,922 [Worker-4: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2022-04-17 11:07:46,239 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 11:07:46,239 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-17 11:07:46,242 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-04-17 11:07:46,256 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-04-17 11:07:46,258 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-17 11:07:46,259 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-04-17 11:07:46,259 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jhermoss\Desktop\semana2\microservicio-pasivo-plazofijo\microservicio-pasivo-plazofijo\src\test\resources
