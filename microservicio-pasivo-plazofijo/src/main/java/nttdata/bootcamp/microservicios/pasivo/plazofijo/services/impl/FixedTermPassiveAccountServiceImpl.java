@@ -1,6 +1,7 @@
 package nttdata.bootcamp.microservicios.pasivo.plazofijo.services.impl;
 
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Service;
 
 import nttdata.bootcamp.microservicios.pasivo.plazofijo.documents.FixedTermPassiveAccount;
 import nttdata.bootcamp.microservicios.pasivo.plazofijo.repository.FixedTermPassiveAccountRepository;
@@ -8,6 +9,7 @@ import nttdata.bootcamp.microservicios.pasivo.plazofijo.services.FixedTermPassiv
 import reactor.core.publisher.Flux;
 import reactor.core.publisher.Mono;
 
+@Service
 public class FixedTermPassiveAccountServiceImpl implements FixedTermPassiveAccountService {
 
 	@Autowired
